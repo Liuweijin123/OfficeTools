@@ -1,10 +1,11 @@
-package com.weijin;
+
 
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.weijin.WordTemp;
 import com.weijin.WordTemp.WorkData;
 /**
  * 测试

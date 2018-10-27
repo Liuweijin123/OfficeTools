@@ -12,12 +12,6 @@ import org.apache.commons.codec.binary.Base64;
 
 public class ImgUtil {
 	
-	/*public static void main(String [] arr)
-	{
-		
-		System.out.println(getBase64ImageStr("D:\\MyTempData\\TestData\\test.png"));
-	}*/
-
 	/**
 	 * 该方法用来将指定的文件转换成base64编码
 	 * 
